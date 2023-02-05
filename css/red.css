@@ -260,7 +260,7 @@ body {
 .bg-darkblue { background-color: #2c3f69; }
 .bg-green { background-color: #42c374; }
 .bg-olive { background-color: #7ba323; }
-.bg-orange { background-color: #ff4500; }
+.bg-orange { background-color: #000000; }
 .bg-red { background-color: #f12a02; }
 .bg-darkred { background-color: #c2162c; }
 .bg-salmon { background-color: #f77459; }
@@ -675,8 +675,8 @@ ul.txt-list li:last-child {
 .btn-orange,
 .white-color .btn-orange {
   color: #fff;
-  background-color: #ff4500;
-  border-color: #ff4500;
+  background-color: #000000;
+  border-color: #000000;
 }
 
 .btn-teal,
@@ -761,8 +761,8 @@ ul.txt-list li:last-child {
 .btn.orange-hover:hover,
 .white-color .btn.orange-hover:hover {
   color: #fff;
-  background-color: #ff4500;
-  border-color: #ff4500;
+  background-color: #000000;
+  border-color: #000000;
 }
 
 .btn.teal-hover:hover,
@@ -1086,7 +1086,7 @@ span.id-color {
 .orange-color li,
 .orange-color i, 
 .white-color .orange-color,
-.orange-color span { color: #ff4500; }
+.orange-color span { color: #000000; }
 
 .red-color,
 .red-color h2, 
@@ -1479,7 +1479,7 @@ span.id-color {
 .white-menu .wsmenu > .wsmenu-list > li.stateblue-color > a { color: #6a5acd; }
 .white-menu .wsmenu > .wsmenu-list > li.green-color > a { color: #42c374; }
 .white-menu .wsmenu > .wsmenu-list > li.olive-color > a { color: #7ba323; }
-.white-menu .wsmenu > .wsmenu-list > li.orange-color > a { color: #ff4500; }
+.white-menu .wsmenu > .wsmenu-list > li.orange-color > a { color: #000000; }
 .white-menu .wsmenu > .wsmenu-list > li.red-color > a { color: #f12a02; }
 .white-menu .wsmenu > .wsmenu-list > li.darkred-color > a { color: #c2162c; }
 .white-menu .wsmenu > .wsmenu-list > li.salmon-color > a { color: #f77459; }
@@ -1557,8 +1557,8 @@ a.header-button {
 }
 
 .wsmenu > .wsmenu-list > li a.header-btn.btn-orange {
-  background-color: #ff4500;
-  border-color: #ff4500;
+  background-color: #000000;
+  border-color: #000000;
 }
 
 .wsmenu > .wsmenu-list > li a.header-btn.btn-red {
@@ -1658,8 +1658,8 @@ a.header-button {
 }
 
 .wsmenu > .wsmenu-list > li a.header-btn.orange-hover:hover {
-  background-color: #ff4500;
-  border-color: #ff4500;
+  background-color: #000000;
+  border-color: #000000;
   color: #fff!important;
 }
 
@@ -1807,7 +1807,7 @@ a.header-button {
 
 .header-contacts a.orange-color,
 .header-contacts a.orange-color i {
-  color: #ff4500;
+  color: #000000;
 }
 
 .header-contacts a.olive-color,
@@ -3548,7 +3548,7 @@ p.header-widget-phone {
 .tabs-2.deepblue-tabs li.displayed, .tabs-2.deepblue-tabs li.displayed:hover { color: #2c3f69; border-color: #2c3f69; }
 .tabs-2.green-tabs li.displayed, .tabs-2.green-tabs li.displayed:hover { color: #42c374; border-color: #42c374; }
 .tabs-2.olive-tabs li.displayed, .tabs-2.olive-tabs li.displayed:hover { color: #7ba323; border-color: #7ba323; }
-.tabs-2.orange-tabs li.displayed, .tabs-2.orange-tabs li.displayed:hover { color: #ff4500; border-color: #ff4500; }
+.tabs-2.orange-tabs li.displayed, .tabs-2.orange-tabs li.displayed:hover { color: #000000; border-color: #000000; }
 .tabs-2.red-tabs li.displayed, .tabs-2.red-tabs li.displayed:hover { color: #f12a02; border-color: #f12a02; }
 .tabs-2.darkred-tabs li.displayed, .tabs-2.darkred-tabs li.displayed:hover { color: #c2162c; border-color: #c2162c; }
 .tabs-2.salmon-tabs li.displayed, .tabs-2.salmon-tabs li.displayed:hover { color: #f77459; border-color: #f77459; }
@@ -3910,7 +3910,7 @@ p.header-widget-phone {
 }
 
 .statistic-3-title.orange-border {
-  border-color: #ff4500;
+  border-color: #000000;
 }
 
 .statistic-3-title.red-border {
@@ -5199,7 +5199,7 @@ a.share-ico {
 }
 
 .orange-icon-bg .contact-box-icon {
-  background-color: #ff4500;
+  background-color: #000000;
 }
 
 .red-icon-bg .contact-box-icon {
