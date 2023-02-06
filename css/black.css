@@ -3084,7 +3084,7 @@ p.header-widget-phone {
 }
 
 .sbox-4 {
-  background-color: #ffab1f;
+  background-color: #fff;
   border: 1px solid #000000;
   padding: 30px 25px;
   -webkit-border-radius: 6px;
@@ -3188,8 +3188,8 @@ p.header-widget-phone {
   overflow: hidden;
 }
 
-#sb-01, #sb-03 { border: 1px solid #ddd; }
-#sb-02 { border: 1px solid #ddd; border-left: none; border-right: none; }
+#sb-01, #sb-03 { border: 1px solid #000000; opacity: 75%; }
+#sb-02 { border: 1px solid #ddd; border-left: none; border-right: none; opacity: 75%; }
 #sb-04, #sb-06 { border: 1px solid #ddd; border-top: none; }
 #sb-05, #sb-08 { border-bottom: 1px solid #ddd; }
 #sb-07, #sb-09 { border: 1px solid #ddd; border-top: none; }
